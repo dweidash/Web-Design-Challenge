@@ -1,0 +1,99 @@
+.main {
+    margin:0px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.north_buff { 
+    margin-top:90px; 
+    margin-right: 10px;
+    margin-left:10px;
+}
+
+.navbar {
+    position:fixed;
+}
+
+.frame {
+    min-height: 400px;
+    padding: 10px;
+    margin: 5px;
+    color: #009999;
+    background-color:#073642;
+}
+
+.home_img {
+    width:320px;
+    height:300px;
+    float:left;
+    margin-right:10px;
+}
+.summary {
+    color:white;
+    font-size:16px;
+    padding-top:15px;
+    padding-bottom:20px;
+}
+
+/* sea green border */
+hr.new1 {
+    border-top: 1px solid #009999;
+}
+
+/*Image based styling*/
+.visual, .visual-noHOV  {
+    height:100%;
+    width:100%;
+}
+.visual:hover {
+    border: 2px solid #ffb121;
+}
+.visual-current {
+    border: 2px solid #ffb121;
+}
+
+/*Comparison page styling */
+.comp-upper {
+    padding:20px;
+    margin-top:90px; 
+    margin-right:40px;
+    margin-left:20px;
+    color: #009999;
+}
+
+.frame-comparison {
+    margin-top:90px;
+    margin-right: 10px;
+    margin-left:10px;
+    padding:40px;
+    color: #009999;
+    background-color:#073642;
+    margin:10px;
+}
+
+.comp-break {
+    padding:10px;
+}
+
+.comp-main {
+    padding:15px;
+    margin:5px;
+}
+
+/*Data page styling*/
+.data-body {
+    min-height: 400px;
+    padding: 15px;
+    margin: 5px;
+    background-color:#073642;
+    color:white;
+    text-align:left;
+}
+
+.table {
+    color:white;
+}
+
+.header-color {
+color:#009999;
+}
